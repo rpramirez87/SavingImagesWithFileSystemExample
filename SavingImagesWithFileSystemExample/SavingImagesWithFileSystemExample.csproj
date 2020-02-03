@@ -13,5 +13,10 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="4.3.0.908675" />
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
+    <PackageReference Include="Xam.Plugin.Media" Version="4.4.10-beta" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="View\" />
+    <Folder Include="ViewModel\" />
   </ItemGroup>
 </Project>
