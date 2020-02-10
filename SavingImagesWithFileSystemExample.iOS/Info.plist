@@ -35,6 +35,8 @@
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Take Photos for testing</string>
+	<string>Take Photos from Camera to save images.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Access Photo Library to save images.</string>
 </dict>
 </plist>
